@@ -29,7 +29,7 @@ vip课程
 * 学习numpy、scipy、pandas和matplotlib工具的使用
 
 ## 机器学习
-* 数学基础回归：微积分、线性代数和概率论
+* 数学基础巩固：微积分、线性代数和概率论
 * 监督学习算法：线性回归、logistics回归、SVM、Neural Networks等
 * 无监督学习算法：K-means聚类、PCA等
 * 在项目实战中，使用tensorflow来训练模型
