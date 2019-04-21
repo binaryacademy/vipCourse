@@ -44,3 +44,4 @@ vip课程
 * 监督学习算法：线性回归、logistics回归、SVM、Neural Networks等
 * 无监督学习算法：K-means聚类、PCA等
 * 在项目实战中，使用tensorflow来训练模型
+* 带你完成5个机器学习项目
